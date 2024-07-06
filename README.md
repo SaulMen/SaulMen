@@ -23,18 +23,14 @@ ____
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
+
+____
+
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulmen&show_icons=true&locale=en&layout=compact" alt="saulmen" />
-
-____
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/screenshot.gif" alt="Chrome Dino" >
+  <img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/screenshot.gif" alt="Chrome Dino" width="500px">
 </p>
-
-
-
-____
-
 <!--
 **SaulMen/SaulMen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
