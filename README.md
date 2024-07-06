@@ -3,7 +3,7 @@ ____
 ## About me
 🌱 I’m currently learning web development
 
-📫 You can see all my project below 
+📫 You can see all my projects below 
 
 😄 A passionate developer
 ____
