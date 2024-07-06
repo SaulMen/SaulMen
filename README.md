@@ -5,7 +5,7 @@ ____
 
 📫 You can see all my project below 
 
-😄 I'm passionate about all things tech
+😄 A passionate developer
 ____
 ## Languages and Tools
 
@@ -26,8 +26,11 @@ ____
 ____
 
 <p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulmen&show_icons=true&locale=en&layout=compact" alt="saulmen" />
   <img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/screenshot.gif" alt="Chrome Dino">
 </p>
+
+____
 
 <!--
 **SaulMen/SaulMen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
