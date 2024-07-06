@@ -25,7 +25,7 @@ ____
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="40"/>
 ____
 
-<p align="center">
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulmen&show_icons=true&locale=en&layout=compact" alt="saulmen" />
 </p>
 
