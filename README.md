@@ -4,8 +4,6 @@ ____
 🌱 I’m currently learning web development
 
 📫 You can see all my projects below 
-
-😄 A passionate developer
 ____
 ## Languages and Tools
 
